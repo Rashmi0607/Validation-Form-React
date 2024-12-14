@@ -10,16 +10,8 @@ This project demonstrates form validation in React using [Formik] and [Yup] for 
 
 ## How to Run the Project
 
-### 1. Clone the Repository
 
-To clone the repository to your local machine, run the following command:
-
-```bash
-git clone https://github.com/thapatechnical/reactValidation.git
-cd reactValidation
-```
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 Make sure you have Node.js installed. Then, install the required dependencies by running:
 
@@ -33,7 +25,7 @@ Alternatively, if you're using Yarn:
 yarn install
 ```
 
-### 3. Run the App
+### 2. Run the App
 
 To run the app in your local development environment:
 
